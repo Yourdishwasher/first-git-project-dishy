@@ -2,19 +2,7 @@
 
 print("Hi")
 print("more added")
-print("g
-g
-g
-g
-g
-g
-g
-
-
-g
-g
-g
-")
+print("g gggggggggggggggggggggggggggggggggggggggg")
 
 
 
